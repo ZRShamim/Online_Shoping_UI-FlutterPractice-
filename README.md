@@ -1,6 +1,10 @@
 # shooping_app
 
-A new Flutter project.
+A new Flutter project. 
+Designing Online Shoping App, UI Design
+
+Practice project from Youtube, Done some my ways and some error has been solved.
+- [YT] (https://www.youtube.com/watch?v=ZT4KJKzxUj0&list=WL)
 
 ## Getting Started
 
