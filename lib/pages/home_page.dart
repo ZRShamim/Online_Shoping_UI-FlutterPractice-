@@ -1,8 +1,8 @@
-// 2720
 import 'package:flutter/material.dart';
 
 import '../data/constant.dart';
 import '../theme/colors.dart';
+
 import '../widgets/custom_slider.dart';
 import '../widgets/home_top_banner.dart';
 import '../widgets/sec_title.dart';

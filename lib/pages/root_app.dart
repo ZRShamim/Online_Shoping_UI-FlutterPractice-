@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shooping_app/data/constant.dart';
+import 'package:shooping_app/pages/store_page.dart';
 
 import './home_page.dart';
 import '../theme/colors.dart';
@@ -31,13 +32,8 @@ class _RootAppState extends State<RootApp> {
     return IndexedStack(
       index: activeTab,
       children: [
+        StorePage(),
         HomePage(),
-        const Center(
-          child: Text(
-            'Store',
-            style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-          ),
-        ),
         const Center(
           child: Text(
             'Account',
